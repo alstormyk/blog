@@ -53,6 +53,7 @@ cell {
 --serif: "Merriweather", Georgia, Times, serif;
 --sans-serif: "Merriweather Sans", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 --monospace: Monaco, Consolas, "Lucida Console", 'Liberation Mono', Courier, monospace;
+--fun: "Princess Sofia", "Merriweather Sans", Roboto, Helvetica;
 }
 
 h1,
@@ -127,6 +128,7 @@ kbd {
 }
 
 .subheader {
+  font-family: var(--fun);
   color: var(--color-light-font);
 }
 
