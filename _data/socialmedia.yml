@@ -1,0 +1,34 @@
+- name: GitHub
+  url: https://github.com/askcreative
+  class: fa fa-github-square
+  title: "Github"
+
+- name: Google+
+  url: https://plus.google.com/b/103017973685192810679/103017973685192810679
+  class: fa fa-google-plus-square
+  title: "Google+"
+
+- name: Linkedin
+  url: https://www.linkedin.com/company-beta/16226626
+  class: fa fa-linkedin-square
+  title: "Linkedin"
+
+- name: Pinterest
+  url: https://nl.pinterest.com/amystormkosmanc
+  class: fa fa-pinterest-square
+  title: "Pinterest"
+
+- name: Reddit
+  url: https://www.reddit.com/user/askcreative/
+  class: fa fa-reddit-square
+  title: "Reddit"
+
+- name: RSS
+  url: "/feed.xml"
+  class: fa fa-rss-square
+  title: "Subscribe to RSS"
+  
+- name: Twitter
+  url: https://twitter.com/askcreative
+  class: fa fa-twitter-square
+  title: "Twitter"

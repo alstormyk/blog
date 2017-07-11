@@ -1,0 +1,58 @@
+title: Amy Storm Kosman creative
+email: amy@askcreative.space
+description: A blog for Amy Storm Kosman creative.
+baseurl: ""
+url: "blog.askcreative.space"
+twitter_username: askcreative
+github_username:  askcreative
+logo: "/assets/askcreativelogo320.png"
+
+social:
+  name: Amy Storm Kosman creative
+  links:
+    - https://twitter.com/askcreative
+    - https://www.linkedin.com/company-beta/16226626
+    - https://github.com/askcreative
+    
+webmaster_verifications:
+  google: 1234
+  bing: 1234
+  alexa: 1234
+  yandex: 1234
+
+# Google services
+google_analytics: UA—XXXXXXXX-X
+    
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-conscious-sedation
+permalink: pretty
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-mentions
+  - jemoji 
+
+  
+jekyll-mentions:
+  base_url: https://twitter.com
+
+tag_page_layout: tags
+tag_page_dir: tag
+
+tag_feed_layout: tag_feed
+tag_feed_dir: tag
+
+ignored_tags: [blog]
+
+tag_page_data:
+  sitemap: false
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
